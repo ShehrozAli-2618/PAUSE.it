@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ShehrozAli-2618.github.io/Pause.it",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
